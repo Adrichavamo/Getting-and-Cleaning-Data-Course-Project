@@ -10,7 +10,13 @@ This is an Adrian Chavarria submission for the **Getting and Cleaning Data Cours
 
 ## Instructions
 
+First, Add library ``` library(dplyr) ``` 
+
+
+
 ### Dataset
+
+Download the files (Step 0)
 
 <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>
 
